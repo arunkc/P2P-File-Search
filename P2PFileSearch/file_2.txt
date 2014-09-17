@@ -1,3 +1,0 @@
-file1.txt
-file2.txt
-temp1.txt
